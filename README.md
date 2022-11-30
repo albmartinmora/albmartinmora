@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello 👋
-- My name is Alberto, I'm from Spain and I'm an web developer.
+- My name is Alberto, I'm from Spain and I work as a web developer.
 - Currently working for Redegal as a Magento developer.
 
 ## Skills
