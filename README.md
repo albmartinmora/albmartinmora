@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 ### Hello 👋
 - My name is Alberto, I'm from Spain and I'm an web developer.
-- Currently working for Arcmedia AG as a Magento developer.
+- Currently working for Redegal as a Magento developer.
 
 ## Skills
 - Working with Magento since 2015.
-- Certified as a Magento developer in version 1.* and version 2.*
-- PHP, Javascript, Docker, AWS(starting...)
-- Special skills and experience working in ecommerce project with high volume of sales.
+- Certified as a Magento developer.
+- PHP, Javascript, Docker, Shopify(starting...)
+- Special skills and experience working in ecommerce project with high volume of trafik and sales.
 
 ## Contact
 - Email     alb.martinmora@gmail.com
