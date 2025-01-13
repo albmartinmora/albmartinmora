@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Currently working for Flex Bedding Group as a ecommerce manager.
 
 ## Skills
-- Working with Magento and Adobe commerce since 2015.
+- Working with Magento and Adobe Commerce since 2015.
 - Certified as a Magento developer.
 - PHP, Javascript, Docker, Shopify ...
 - Special skills and experience working in ecommerce project B2C, B2B with high volume of trafik and sales.
