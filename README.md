@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 ### Hello 👋
 - My name is Alberto, I'm from Spain and I work as a web developer.
-- Currently working for Redegal as a Magento developer.
+- Currently working for Flex Bedding Group as a ecommerce manager.
 
 ## Skills
-- Working with Magento since 2015.
+- Working with Magento and Adobe commerce since 2015.
 - Certified as a Magento developer.
-- PHP, Javascript, Docker, Shopify(starting...)
-- Special skills and experience working in ecommerce project with high volume of trafik and sales.
+- PHP, Javascript, Docker, Shopify ...
+- Special skills and experience working in ecommerce project B2C, B2B with high volume of trafik and sales.
 
 ## Contact
 - Email     alb.martinmora@gmail.com
